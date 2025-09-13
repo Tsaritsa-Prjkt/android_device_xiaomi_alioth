@@ -41,6 +41,7 @@ PRODUCT_PACKAGES += \
     LineageDialerOverlayDevice \
     LineageSettingsOverlayDevice \
     LineageSystemUIOverlayDevice \
+    SettingsOverlayDevice \
     SystemUIOverlayDevice
 
 # RRO Overlays
