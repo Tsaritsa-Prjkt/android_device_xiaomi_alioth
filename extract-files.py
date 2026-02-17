@@ -31,6 +31,8 @@ blob_fixups: blob_fixups_user_type = {
         .replace_needed('libaudioroute.so', 'libaudioroute-v34.so'),
     'vendor/lib64/camera/components/com.mi.node.watermark.so': blob_fixup()
         .add_needed('libpiex_shim.so'),
+    'vendor/lib64/camera/components/com.vidhance.node.eis.so': blob_fixup()
+        .binary_regex_replace(b'\x02\x20\x80\x52', b'\x02\xA6\x81\x52'),
     'vendor/lib64/hw/camera.qcom.so': blob_fixup()
         .binary_regex_replace(
             b'\x73\x74\x5F\x6C\x69\x63\x65\x6E\x73\x65\x2E\x6C\x69\x63',
