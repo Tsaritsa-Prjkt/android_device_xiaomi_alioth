@@ -27,6 +27,12 @@ BYPASS_CHARGE_SUPPORTED := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 USE_PIXEL_CHARGING := true
 
+# Lunaris
+WITH_BCR := true
+WITH_GMS := true
+
+TARGET_SUPPORTED_REFRESH_RATES := 60,120
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_alioth
 PRODUCT_DEVICE := alioth
