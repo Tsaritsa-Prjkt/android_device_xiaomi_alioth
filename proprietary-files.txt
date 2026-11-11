@@ -323,6 +323,26 @@ vendor/lib64/camera/components/libubifocus.so
 
 # Camera configs
 vendor/camera/model/model_front.dlc
+vendor/etc/camera/102_SummerDay.png
+vendor/etc/camera/103_Fantasy.png
+vendor/etc/camera/104_Meet.png
+vendor/etc/camera/105_WindSing.png
+vendor/etc/camera/106_Lost.png
+vendor/etc/camera/107_Central.png
+vendor/etc/camera/108_NorthernEurope.png
+vendor/etc/camera/109_Rome.png
+vendor/etc/camera/110_BlackGold.png
+vendor/etc/camera/111_GreenOrange.png
+vendor/etc/camera/112_CyberPunk.png
+vendor/etc/camera/113_BlackIce.png
+vendor/etc/camera/121_Bleach.png
+vendor/etc/camera/122_Thriller.png
+vendor/etc/camera/123_TealOrange.png
+vendor/etc/camera/124_JapaneseStyle.png
+vendor/etc/camera/125_Latin.png
+vendor/etc/camera/126_Fantasy2.png
+vendor/etc/camera/127_Creamy.png
+vendor/etc/camera/128_Sepia.png
 vendor/etc/camera/misupermoon/MobNetv2TF_0.35_iter200000_zoom2.5x_h1500w2000.dlc
 vendor/etc/camera/CFR_para_UW_V01.bin
 vendor/etc/camera/CFR_para_UW_V07.bin
